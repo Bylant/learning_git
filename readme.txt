@@ -9,3 +9,5 @@ update readme.txt
 77777777
 
 git add readme.txt
+
+git update readme.txt
