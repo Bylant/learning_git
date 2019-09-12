@@ -7,3 +7,5 @@ update readme.txt
 44444444
 
 77777777
+
+git add readme.txt
