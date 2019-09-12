@@ -13,3 +13,5 @@ git add readme.txt
 git update readme.txt
 
 git checkout -b dev
+
+Creating a new branch is quick and simple
