@@ -13,3 +13,7 @@ git add readme.txt
 git update readme.txt
 
 git checkout -b dev
+
+
+
+--no-ff 的作用
